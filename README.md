@@ -1,4 +1,5 @@
 🪶 Journali
+
 A beautifully simple iOS app that lets you write and store your personal journal reflections in a safe, private space.
 Your thoughts, moods, and memories. all kept securely on your device. ✨
 
